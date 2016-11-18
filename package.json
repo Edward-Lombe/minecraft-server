@@ -1,0 +1,15 @@
+{
+  "name": "minecraft-server",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Edward Lombe <edward.lombe@mycosystems.com.au> (https://github.com/Edward-Lombe)",
+  "license": "ISC",
+  "dependencies": {
+    "pm2": "2.1.5"
+  }
+}
